@@ -30,57 +30,6 @@ rate_limits:
   min_interval_seconds: 10
 
 activities:
-  types:
-    - AlpineSki
-    - BackcountrySki
-    - Badminton
-    - Canoeing
-    - Crossfit
-    - EBikeRide
-    - Elliptical
-    - EMountainBikeRide
-    - Golf
-    - GravelRide
-    - Handcycle
-    - HighIntensityIntervalTraining
-    - Hike
-    - IceSkate
-    - InlineSkate
-    - Kayaking
-    - Kitesurf
-    - MountainBikeRide
-    - NordicSki
-    - Pickleball
-    - Pilates
-    - Racquetball
-    - Ride
-    - RockClimbing
-    - RollerSki
-    - Rowing
-    - Run
-    - Sail
-    - Skateboard
-    - Snowboard
-    - Snowshoe
-    - Soccer
-    - Squash
-    - StairStepper
-    - StandUpPaddling
-    - Surfing
-    - Swim
-    - TableTennis
-    - Tennis
-    - TrailRun
-    - Velomobile
-    - VirtualRide
-    - VirtualRow
-    - VirtualRun
-    - Walk
-    - WeightTraining
-    - Wheelchair
-    - Windsurf
-    - Workout
-    - Yoga
   include_all_types: false  
   types:
     - Ride
@@ -89,6 +38,7 @@ activities:
     - VirtualRide
     - VirtualRun
     - WeightTraining
+
 # include all observed activity types by default
   exclude_types: []         # optional explicit exclusions while still allowing new sport types
   group_other_types: false  # when false, keep raw source activity names as-is
