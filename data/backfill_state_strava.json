@@ -1,11 +1,23 @@
 {
   "activity_scope": {
     "exclude_types": [],
-    "include_all_types": true
+    "featured_types": [
+      "Ride",
+      "Run",
+      "Swim",
+      "VirtualRide",
+      "VirtualRun",
+      "WeightTraining"
+    ],
+    "group_aliases": {},
+    "group_other_types": false,
+    "include_all_types": false,
+    "other_bucket": "OtherSports",
+    "type_aliases": {}
   },
   "after": 0,
   "completed": true,
-  "last_run_utc": "2026-02-14T12:53:12.984916+00:00",
+  "last_run_utc": "2026-02-14T13:02:55.599296+00:00",
   "newest_seen_ts": 1770809209,
   "next_before": null,
   "oldest_seen_ts": 1518071580,

@@ -1128,18 +1128,6 @@
     "year": 2020
   },
   {
-    "date": "2020-11-15",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "4348088020",
-    "moving_time": 2411.0,
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2020-11-15T16:21:18Z",
-    "type": "Workout",
-    "year": 2020
-  },
-  {
     "date": "2020-11-16",
     "distance": 5686.4,
     "elevation_gain": 60.4,
@@ -2085,30 +2073,6 @@
     "raw_type": "Run",
     "start_date_local": "2021-08-22T17:43:13Z",
     "type": "Run",
-    "year": 2021
-  },
-  {
-    "date": "2021-08-23",
-    "distance": 1334.4,
-    "elevation_gain": 2.2,
-    "id": "5839901569",
-    "moving_time": 1683.0,
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2021-08-23T11:00:02Z",
-    "type": "Workout",
-    "year": 2021
-  },
-  {
-    "date": "2021-08-24",
-    "distance": 3210.0,
-    "elevation_gain": 2.2,
-    "id": "5844223816",
-    "moving_time": 2725.0,
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
-    "start_date_local": "2021-08-24T10:23:58Z",
-    "type": "Workout",
     "year": 2021
   },
   {
@@ -3168,18 +3132,6 @@
     "year": 2023
   },
   {
-    "date": "2023-01-08",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "8359379446",
-    "moving_time": 1876.0,
-    "raw_activity_type": "Yoga",
-    "raw_type": "Yoga",
-    "start_date_local": "2023-01-08T14:52:18Z",
-    "type": "Yoga",
-    "year": 2023
-  },
-  {
     "date": "2023-01-19",
     "distance": 6532.9,
     "elevation_gain": 31.8,
@@ -3213,18 +3165,6 @@
     "raw_type": "Run",
     "start_date_local": "2023-02-05T09:13:41Z",
     "type": "Run",
-    "year": 2023
-  },
-  {
-    "date": "2023-02-05",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "8508585895",
-    "moving_time": 352.0,
-    "raw_activity_type": "Rowing",
-    "raw_type": "Rowing",
-    "start_date_local": "2023-02-05T10:00:55Z",
-    "type": "Rowing",
     "year": 2023
   },
   {
@@ -3792,18 +3732,6 @@
     "year": 2024
   },
   {
-    "date": "2024-06-27",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "11764214781",
-    "moving_time": 7561.0,
-    "raw_activity_type": "RockClimbing",
-    "raw_type": "RockClimbing",
-    "start_date_local": "2024-06-27T10:32:05Z",
-    "type": "RockClimbing",
-    "year": 2024
-  },
-  {
     "date": "2024-08-03",
     "distance": 8357.7,
     "elevation_gain": 34.3,
@@ -4173,18 +4101,6 @@
     "raw_type": "VirtualRide",
     "start_date_local": "2024-12-22T17:00:00Z",
     "type": "VirtualRide",
-    "year": 2024
-  },
-  {
-    "date": "2024-12-31",
-    "distance": 23624.0,
-    "elevation_gain": 2071.9,
-    "id": "13233186245",
-    "moving_time": 5820.0,
-    "raw_activity_type": "AlpineSki",
-    "raw_type": "AlpineSki",
-    "start_date_local": "2024-12-31T12:49:55Z",
-    "type": "AlpineSki",
     "year": 2024
   },
   {
