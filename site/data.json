@@ -8477,32 +8477,32 @@
       }
     }
   },
-  "generated_at": "2026-02-14T13:31:23.717727+00:00",
+  "generated_at": "2026-02-14T13:56:38.471440+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
     "Ride": {
-      "accent": "#05ffa1",
+      "accent": "#f1c40f",
       "label": "Ride"
     },
     "Run": {
-      "accent": "#01cdfe",
+      "accent": "#2ecc71",
       "label": "Run"
     },
     "Swim": {
-      "accent": "#3a86ff",
+      "accent": "#3498db",
       "label": "Swim"
     },
     "VirtualRide": {
-      "accent": "#fee440",
+      "accent": "#f1c40f",
       "label": "Virtual Ride"
     },
     "VirtualRun": {
-      "accent": "#00bbf9",
+      "accent": "#2ecc71",
       "label": "Virtual Run"
     },
     "WeightTraining": {
-      "accent": "#ff71ce",
+      "accent": "#e377c2",
       "label": "Weight Training"
     }
   },
