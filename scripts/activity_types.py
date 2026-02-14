@@ -122,14 +122,10 @@ DEFAULT_TYPE_LABELS = {
 }
 
 TYPE_ACCENT_COLORS = {
-    "Run": "#01cdfe",
-    "Ride": "#05ffa1",
     "Walk": "#d6ff6b",
-    "WeightTraining": "#ff71ce",
     "Hike": "#d6ff6b",
     "Golf": "#38b000",
     "WalkHike": "#d6ff6b",
-    "Swim": "#3a86ff",
     "WaterSports": "#118ab2",
     "WinterSports": "#b8c0ff",
     "GymCardio": "#ff8a5b",
@@ -140,6 +136,12 @@ TYPE_ACCENT_COLORS = {
     "Climbing": "#7ae582",
     "SkateSports": "#9ef01a",
     "AdaptiveSports": "#8338ec",
+    "Ride": "#f1c40f",          # yellow
+    "VirtualRide": "#f1c40f",   # yellow
+    "Run": "#2ecc71",           # green
+    "VirtualRun": "#2ecc71",    # green
+    "Swim": "#3498db",          # blue
+    "WeightTraining": "#e377c2",
     "OtherSports": "#ff006e",
 }
 
