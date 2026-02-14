@@ -49,3 +49,10 @@ activities:
 units:
   distance: "mi"   # "mi" or "km"
   elevation: "ft"  # "ft" or "m"
+
+styles:
+  activity_colors:
+    Ride: "#f1c40f"          # yellow
+    VirtualRide: "#f1c40f"   # yellow
+    Run: "#2ecc71"           # green
+    Swim: "#3498db"          # blue (unchanged)
