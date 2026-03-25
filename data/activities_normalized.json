@@ -6658,5 +6658,17 @@
     "start_date_local": "2026-03-22T17:23:25Z",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17845303503",
+    "moving_time": 2822.0,
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-23T12:27:59Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
