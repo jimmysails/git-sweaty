@@ -6706,5 +6706,41 @@
     "start_date_local": "2026-03-27T16:41:51Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17903955583",
+    "moving_time": 3650.0,
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-28T10:39:38Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 10771.9,
+    "elevation_gain": 263.2,
+    "id": "17903956057",
+    "moving_time": 3933.0,
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-29T17:36:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17913387312",
+    "moving_time": 2096.0,
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-30T12:42:18Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
