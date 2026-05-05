@@ -4066,6 +4066,27 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 17,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 12,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 9,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8735,6 +8756,15 @@
           "distance": 29057.1,
           "elevation_gain": 0.0,
           "moving_time": 3600.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18374712552"
+          ],
+          "count": 1,
+          "distance": 33740.9,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
         }
       },
       "Run": {
@@ -8818,6 +8848,15 @@
           "distance": 9265.5,
           "elevation_gain": 40.8,
           "moving_time": 3365.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18382150646"
+          ],
+          "count": 1,
+          "distance": 7055.8,
+          "elevation_gain": 104.3,
+          "moving_time": 2343.0
         }
       },
       "Swim": {
@@ -9357,11 +9396,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2940.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18381133674"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2748.0
         }
       }
     }
   },
-  "generated_at": "2026-05-04T16:45:46.748257+00:00",
+  "generated_at": "2026-05-05T16:24:25.459153+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
