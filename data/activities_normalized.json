@@ -7114,5 +7114,17 @@
     "start_date_local": "2026-06-03T12:40:52Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 1200.0,
+    "elevation_gain": 0.0,
+    "id": "18801792924",
+    "moving_time": 2376.0,
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-05T18:13:33Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
