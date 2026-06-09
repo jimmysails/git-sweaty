@@ -7126,5 +7126,29 @@
     "start_date_local": "2026-06-05T18:13:33Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18849400249",
+    "moving_time": 3490.0,
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-08T12:30:48Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 7527.6,
+    "elevation_gain": 21.0,
+    "id": "18849399527",
+    "moving_time": 2548.0,
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-09T12:05:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
